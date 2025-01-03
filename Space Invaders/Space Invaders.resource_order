@@ -1,0 +1,22 @@
+{
+  "FolderOrderSettings":[
+    {"name":"fonts","order":10,"path":"folders/fonts.yy",},
+    {"name":"game objects","order":11,"path":"folders/game objects.yy",},
+    {"name":"neuroevolution","order":12,"path":"folders/neuroevolution.yy",},
+    {"name":"neural network","order":1,"path":"folders/neuroevolution/neural network.yy",},
+    {"name":"rooms","order":13,"path":"folders/rooms.yy",},
+    {"name":"sprites","order":14,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oAIManager","order":3,"path":"objects/oAIManager/oAIManager.yy",},
+    {"name":"oBackground","order":5,"path":"objects/oBackground/oBackground.yy",},
+    {"name":"oGameControl","order":4,"path":"objects/oGameControl/oGameControl.yy",},
+    {"name":"oGameObjParent","order":8,"path":"objects/oGameObjParent/oGameObjParent.yy",},
+    {"name":"oKeyboardControls","order":7,"path":"objects/oKeyboardControls/oKeyboardControls.yy",},
+    {"name":"oNeuralNetControls","order":6,"path":"objects/oNeuralNetControls/oNeuralNetControls.yy",},
+    {"name":"scrGameFunctions","order":9,"path":"scripts/scrGameFunctions/scrGameFunctions.yy",},
+    {"name":"scrGeneralFunctions","order":2,"path":"scripts/scrGeneralFunctions/scrGeneralFunctions.yy",},
+    {"name":"scrMacros","order":1,"path":"scripts/scrMacros/scrMacros.yy",},
+    {"name":"scrNeuralNetwork","order":1,"path":"scripts/scrNeuralNetwork/scrNeuralNetwork.yy",},
+  ],
+}
